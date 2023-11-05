@@ -132,3 +132,6 @@ dist
 # Ignore css files
 css/
 *.css
+
+# Ignore folders and files
+main/
